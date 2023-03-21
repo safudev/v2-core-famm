@@ -15,6 +15,8 @@ artifacts
 
 ABI.json
 contractAdress.json
+allAddress.json
+allAbi.json
 
 node_modules
 .env
